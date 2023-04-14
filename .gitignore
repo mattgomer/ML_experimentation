@@ -1,0 +1,5 @@
+# Mac system files
+.DS_store
+
+#neural_style_transfer weights
+image_processing/neural_style_transfer/pretrained-model/*
