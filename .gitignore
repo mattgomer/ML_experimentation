@@ -9,3 +9,6 @@ image_processing/neural_style_transfer/pretrained-model/*
 
 #word embeddings
 NLP/embeddings/*
+
+#data files too large to upload
+data/*
